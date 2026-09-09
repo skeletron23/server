@@ -20,7 +20,7 @@ const {
 router.get('/', (req, res) => {
   let projects = db.getCollection('projects');
 
-  projects = applySearch(projects, req.query.search, ['projectName', 'description']);
+  projects = applySearch(projects, req.query.search, ['projectName', 'assignedUsers']);
   projects = applyFilters(projects, req.query, ['status']);
   projects = applySort(projects, req.query.sortBy, req.query.sortOrder);
 
