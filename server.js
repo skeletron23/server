@@ -5,6 +5,7 @@ const projectsRouter = require('./routes/projects');
 const tasksRouter = require('./routes/tasks');
 const usersRouter = require('./routes/users');
 const dashboardRouter = require('./routes/dashboard');
+const authRouter = require('./routes/auth');
 
 const app = express();
 const PORT = process.env.PORT || 3001;
@@ -22,6 +23,7 @@ app.use('/projects', projectsRouter);
 app.use('/tasks', tasksRouter);
 app.use('/users', usersRouter);
 app.use('/dashboard', dashboardRouter);
+app.use('/auth', authRouter);
 
 app.get('/', (req, res) => {
   res.json({ message: 'Project Management Dashboard API is running' });

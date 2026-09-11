@@ -248,7 +248,7 @@
       "status": "In Progress",
       "createdDate": "2026-06-27",
       "assignedUsers": [
-        "Olivia M\u00fcller"
+        "Olivia Müller"
       ]
     },
     {
@@ -268,7 +268,7 @@
       "status": "In Progress",
       "createdDate": "2026-08-08",
       "assignedUsers": [
-        "Olivia M\u00fcller"
+        "Olivia Müller"
       ]
     },
     {
@@ -335,7 +335,7 @@
       "createdDate": "2026-05-25",
       "assignedUsers": [
         "Emma Watson",
-        "Olivia M\u00fcller",
+        "Olivia Müller",
         "Carlos Rossi"
       ]
     },
@@ -921,7 +921,7 @@
       "description": "Task related to push notification service",
       "priority": "Medium",
       "status": "Todo",
-      "assignee": "Olivia M\u00fcller",
+      "assignee": "Olivia Müller",
       "dueDate": "2026-09-02"
     },
     {
@@ -931,7 +931,7 @@
       "description": "Task related to fraud detection module",
       "priority": "Medium",
       "status": "Review",
-      "assignee": "Olivia M\u00fcller",
+      "assignee": "Olivia Müller",
       "dueDate": "2026-09-04"
     },
     {
@@ -1361,7 +1361,7 @@
       "description": "Task related to push notification service",
       "priority": "Medium",
       "status": "Done",
-      "assignee": "Olivia M\u00fcller",
+      "assignee": "Olivia Müller",
       "dueDate": "2026-09-14"
     },
     {
@@ -1371,7 +1371,7 @@
       "description": "Task related to push notification service",
       "priority": "Medium",
       "status": "Done",
-      "assignee": "Olivia M\u00fcller",
+      "assignee": "Olivia Müller",
       "dueDate": "2026-09-05"
     },
     {
@@ -1391,7 +1391,7 @@
       "description": "Task related to fraud detection module",
       "priority": "Low",
       "status": "Todo",
-      "assignee": "Olivia M\u00fcller",
+      "assignee": "Olivia Müller",
       "dueDate": "2026-09-28"
     },
     {
@@ -1401,7 +1401,7 @@
       "description": "Task related to fraud detection module",
       "priority": "High",
       "status": "Todo",
-      "assignee": "Olivia M\u00fcller",
+      "assignee": "Olivia Müller",
       "dueDate": "2026-10-01"
     },
     {
@@ -1649,12 +1649,14 @@
     {
       "id": 1,
       "name": "John Doe",
-      "email": "john.doe@example.com"
+      "email": "john.doe@example.com",
+      "password": "$2b$10$LAsd3GvtQeMXZonbtJ2ZkOWzTpeUIzrqe3kkINBDhomrV6z2sSi/K"
     },
     {
       "id": 2,
       "name": "Priya Sharma",
-      "email": "priya.sharma@example.com"
+      "email": "priya.sharma@example.com",
+      "password": "$2b$10$FW4ZPyN8z8xlBqm7.hgAbODQoeHEqPZxU3DP2mHbJfG9kPIVQuIbW"
     },
     {
       "id": 3,
@@ -1693,8 +1695,8 @@
     },
     {
       "id": 10,
-      "name": "Olivia M\u00fcller",
-      "email": "olivia.m\u00fcller@example.com"
+      "name": "Olivia Müller",
+      "email": "olivia.müller@example.com"
     },
     {
       "id": 11,
@@ -1745,6 +1747,18 @@
       "id": 20,
       "name": "Daniel Brown",
       "email": "daniel.brown@example.com"
+    },
+    {
+      "id": 21,
+      "name": "Test User",
+      "email": "test.user@example.com",
+      "password": "$2b$10$bUzsjaOGqR.Z2h9P0W5TwOMUjBs6J7PT38srsPUAHVpPoT8DiT/WO"
+    },
+    {
+      "id": 22,
+      "name": "Your Name",
+      "email": "you@example.com",
+      "password": "$2b$10$3Bv.iID178qbH1BNOVJhgOAMTZVQFvPWng2lciY6Fo7Uy8qghLG/O"
     }
   ]
 }
