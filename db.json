@@ -8,7 +8,10 @@
       "createdDate": "2026-04-29",
       "assignedUsers": [
         "Noah Garcia"
-      ]
+      ],
+      "createdAt": "2026-04-29T00:00:00.000Z",
+      "updatedAt": "2026-04-29T00:00:00.000Z",
+      "assignedAt": null
     },
     {
       "id": 2,
@@ -20,7 +23,10 @@
         "Tom Becker",
         "Ahmed Hassan",
         "Aisha Khan"
-      ]
+      ],
+      "createdAt": "2026-05-06T00:00:00.000Z",
+      "updatedAt": "2026-05-06T00:00:00.000Z",
+      "assignedAt": null
     },
     {
       "id": 3,
@@ -30,7 +36,10 @@
       "createdDate": "2026-04-09",
       "assignedUsers": [
         "Aisha Khan"
-      ]
+      ],
+      "createdAt": "2026-04-09T00:00:00.000Z",
+      "updatedAt": "2026-04-09T00:00:00.000Z",
+      "assignedAt": null
     },
     {
       "id": 4,
@@ -42,7 +51,10 @@
         "John Doe",
         "Ahmed Hassan",
         "Emma Watson"
-      ]
+      ],
+      "createdAt": "2026-08-08T00:00:00.000Z",
+      "updatedAt": "2026-08-08T00:00:00.000Z",
+      "assignedAt": null
     },
     {
       "id": 5,
@@ -53,7 +65,10 @@
       "assignedUsers": [
         "Sofia Nguyen",
         "Noah Garcia"
-      ]
+      ],
+      "createdAt": "2026-05-27T00:00:00.000Z",
+      "updatedAt": "2026-05-27T00:00:00.000Z",
+      "assignedAt": null
     },
     {
       "id": 6,
@@ -64,7 +79,10 @@
       "assignedUsers": [
         "Noah Garcia",
         "Raj Patel"
-      ]
+      ],
+      "createdAt": "2026-07-18T00:00:00.000Z",
+      "updatedAt": "2026-07-18T00:00:00.000Z",
+      "assignedAt": null
     },
     {
       "id": 7,
@@ -74,7 +92,10 @@
       "createdDate": "2026-04-27",
       "assignedUsers": [
         "Carlos Rossi"
-      ]
+      ],
+      "createdAt": "2026-04-27T00:00:00.000Z",
+      "updatedAt": "2026-04-27T00:00:00.000Z",
+      "assignedAt": null
     },
     {
       "id": 8,
@@ -86,7 +107,10 @@
         "Noah Garcia",
         "Priya Sharma",
         "Ivan Petrov"
-      ]
+      ],
+      "createdAt": "2026-06-28T00:00:00.000Z",
+      "updatedAt": "2026-06-28T00:00:00.000Z",
+      "assignedAt": null
     },
     {
       "id": 9,
@@ -96,7 +120,10 @@
       "createdDate": "2026-07-06",
       "assignedUsers": [
         "Ahmed Hassan"
-      ]
+      ],
+      "createdAt": "2026-07-06T00:00:00.000Z",
+      "updatedAt": "2026-07-06T00:00:00.000Z",
+      "assignedAt": null
     },
     {
       "id": 10,
@@ -106,7 +133,10 @@
       "createdDate": "2026-08-26",
       "assignedUsers": [
         "Aisha Khan"
-      ]
+      ],
+      "createdAt": "2026-08-26T00:00:00.000Z",
+      "updatedAt": "2026-08-26T00:00:00.000Z",
+      "assignedAt": null
     },
     {
       "id": 11,
@@ -116,7 +146,10 @@
       "createdDate": "2026-06-14",
       "assignedUsers": [
         "Liam Kim"
-      ]
+      ],
+      "createdAt": "2026-06-14T00:00:00.000Z",
+      "updatedAt": "2026-06-14T00:00:00.000Z",
+      "assignedAt": null
     },
     {
       "id": 12,
@@ -127,7 +160,10 @@
       "assignedUsers": [
         "Fatima Ali",
         "Sara Lee"
-      ]
+      ],
+      "createdAt": "2026-06-11T00:00:00.000Z",
+      "updatedAt": "2026-06-11T00:00:00.000Z",
+      "assignedAt": null
     },
     {
       "id": 13,
@@ -139,7 +175,10 @@
         "Noah Garcia",
         "Aisha Khan",
         "Sara Lee"
-      ]
+      ],
+      "createdAt": "2026-05-24T00:00:00.000Z",
+      "updatedAt": "2026-05-24T00:00:00.000Z",
+      "assignedAt": null
     },
     {
       "id": 14,
@@ -150,7 +189,10 @@
       "assignedUsers": [
         "Carlos Rossi",
         "Noah Garcia"
-      ]
+      ],
+      "createdAt": "2026-05-12T00:00:00.000Z",
+      "updatedAt": "2026-05-12T00:00:00.000Z",
+      "assignedAt": null
     },
     {
       "id": 15,
@@ -160,7 +202,10 @@
       "createdDate": "2026-06-23",
       "assignedUsers": [
         "Liam Kim"
-      ]
+      ],
+      "createdAt": "2026-06-23T00:00:00.000Z",
+      "updatedAt": "2026-06-23T00:00:00.000Z",
+      "assignedAt": null
     },
     {
       "id": 16,
@@ -171,7 +216,10 @@
       "assignedUsers": [
         "Aisha Khan",
         "Emma Watson"
-      ]
+      ],
+      "createdAt": "2026-07-12T00:00:00.000Z",
+      "updatedAt": "2026-07-12T00:00:00.000Z",
+      "assignedAt": null
     },
     {
       "id": 17,
@@ -183,7 +231,10 @@
         "Maria Silva",
         "Carlos Rossi",
         "Ivan Petrov"
-      ]
+      ],
+      "createdAt": "2026-05-25T00:00:00.000Z",
+      "updatedAt": "2026-05-25T00:00:00.000Z",
+      "assignedAt": null
     },
     {
       "id": 18,
@@ -193,7 +244,10 @@
       "createdDate": "2026-05-06",
       "assignedUsers": [
         "Ahmed Hassan"
-      ]
+      ],
+      "createdAt": "2026-05-06T00:00:00.000Z",
+      "updatedAt": "2026-05-06T00:00:00.000Z",
+      "assignedAt": null
     },
     {
       "id": 19,
@@ -204,7 +258,10 @@
       "assignedUsers": [
         "Sofia Nguyen",
         "Carlos Rossi"
-      ]
+      ],
+      "createdAt": "2026-08-28T00:00:00.000Z",
+      "updatedAt": "2026-08-28T00:00:00.000Z",
+      "assignedAt": null
     },
     {
       "id": 20,
@@ -216,7 +273,10 @@
         "Maria Silva",
         "Aisha Khan",
         "Priya Sharma"
-      ]
+      ],
+      "createdAt": "2026-05-06T00:00:00.000Z",
+      "updatedAt": "2026-05-06T00:00:00.000Z",
+      "assignedAt": null
     },
     {
       "id": 21,
@@ -228,7 +288,10 @@
         "Yuki Tanaka",
         "Aisha Khan",
         "Carlos Rossi"
-      ]
+      ],
+      "createdAt": "2026-05-11T00:00:00.000Z",
+      "updatedAt": "2026-05-11T00:00:00.000Z",
+      "assignedAt": null
     },
     {
       "id": 22,
@@ -239,7 +302,10 @@
       "assignedUsers": [
         "Ahmed Hassan",
         "John Doe"
-      ]
+      ],
+      "createdAt": "2026-08-14T00:00:00.000Z",
+      "updatedAt": "2026-08-14T00:00:00.000Z",
+      "assignedAt": null
     },
     {
       "id": 23,
@@ -249,7 +315,10 @@
       "createdDate": "2026-06-27",
       "assignedUsers": [
         "Olivia Müller"
-      ]
+      ],
+      "createdAt": "2026-06-27T00:00:00.000Z",
+      "updatedAt": "2026-06-27T00:00:00.000Z",
+      "assignedAt": null
     },
     {
       "id": 24,
@@ -259,7 +328,10 @@
       "createdDate": "2026-07-26",
       "assignedUsers": [
         "Noah Garcia"
-      ]
+      ],
+      "createdAt": "2026-07-26T00:00:00.000Z",
+      "updatedAt": "2026-07-26T00:00:00.000Z",
+      "assignedAt": null
     },
     {
       "id": 25,
@@ -269,7 +341,10 @@
       "createdDate": "2026-08-08",
       "assignedUsers": [
         "Olivia Müller"
-      ]
+      ],
+      "createdAt": "2026-08-08T00:00:00.000Z",
+      "updatedAt": "2026-08-08T00:00:00.000Z",
+      "assignedAt": null
     },
     {
       "id": 26,
@@ -280,7 +355,10 @@
       "assignedUsers": [
         "Sara Lee",
         "Ahmed Hassan"
-      ]
+      ],
+      "createdAt": "2026-05-10T00:00:00.000Z",
+      "updatedAt": "2026-05-10T00:00:00.000Z",
+      "assignedAt": null
     },
     {
       "id": 27,
@@ -291,7 +369,10 @@
       "assignedUsers": [
         "John Doe",
         "Tom Becker"
-      ]
+      ],
+      "createdAt": "2026-06-22T00:00:00.000Z",
+      "updatedAt": "2026-06-22T00:00:00.000Z",
+      "assignedAt": null
     },
     {
       "id": 28,
@@ -301,7 +382,10 @@
       "createdDate": "2026-06-01",
       "assignedUsers": [
         "Liam Kim"
-      ]
+      ],
+      "createdAt": "2026-06-01T00:00:00.000Z",
+      "updatedAt": "2026-06-01T00:00:00.000Z",
+      "assignedAt": null
     },
     {
       "id": 29,
@@ -313,7 +397,10 @@
         "Maria Silva",
         "Aisha Khan",
         "Ahmed Hassan"
-      ]
+      ],
+      "createdAt": "2026-04-22T00:00:00.000Z",
+      "updatedAt": "2026-04-22T00:00:00.000Z",
+      "assignedAt": null
     },
     {
       "id": 30,
@@ -325,7 +412,10 @@
         "Sara Lee",
         "Noah Garcia",
         "Chen Wang"
-      ]
+      ],
+      "createdAt": "2026-07-31T00:00:00.000Z",
+      "updatedAt": "2026-07-31T00:00:00.000Z",
+      "assignedAt": null
     },
     {
       "id": 31,
@@ -337,7 +427,10 @@
         "Emma Watson",
         "Olivia Müller",
         "Carlos Rossi"
-      ]
+      ],
+      "createdAt": "2026-05-25T00:00:00.000Z",
+      "updatedAt": "2026-05-25T00:00:00.000Z",
+      "assignedAt": null
     },
     {
       "id": 32,
@@ -348,7 +441,10 @@
       "assignedUsers": [
         "Tom Becker",
         "Liam Kim"
-      ]
+      ],
+      "createdAt": "2026-08-11T00:00:00.000Z",
+      "updatedAt": "2026-08-11T00:00:00.000Z",
+      "assignedAt": null
     },
     {
       "id": 33,
@@ -358,7 +454,10 @@
       "createdDate": "2026-06-26",
       "assignedUsers": [
         "Sofia Nguyen"
-      ]
+      ],
+      "createdAt": "2026-06-26T00:00:00.000Z",
+      "updatedAt": "2026-06-26T00:00:00.000Z",
+      "assignedAt": null
     },
     {
       "id": 34,
@@ -368,7 +467,10 @@
       "createdDate": "2026-08-29",
       "assignedUsers": [
         "John Doe"
-      ]
+      ],
+      "createdAt": "2026-08-29T00:00:00.000Z",
+      "updatedAt": "2026-08-29T00:00:00.000Z",
+      "assignedAt": null
     },
     {
       "id": 35,
@@ -378,7 +480,10 @@
       "createdDate": "2026-05-29",
       "assignedUsers": [
         "Priya Sharma"
-      ]
+      ],
+      "createdAt": "2026-05-29T00:00:00.000Z",
+      "updatedAt": "2026-05-29T00:00:00.000Z",
+      "assignedAt": null
     },
     {
       "id": 36,
@@ -388,7 +493,10 @@
       "createdDate": "2026-08-10",
       "assignedUsers": [
         "Noah Garcia"
-      ]
+      ],
+      "createdAt": "2026-08-10T00:00:00.000Z",
+      "updatedAt": "2026-08-10T00:00:00.000Z",
+      "assignedAt": null
     },
     {
       "id": 37,
@@ -398,7 +506,10 @@
       "createdDate": "2026-08-17",
       "assignedUsers": [
         "Sofia Nguyen"
-      ]
+      ],
+      "createdAt": "2026-08-17T00:00:00.000Z",
+      "updatedAt": "2026-08-17T00:00:00.000Z",
+      "assignedAt": null
     },
     {
       "id": 38,
@@ -409,7 +520,10 @@
       "assignedUsers": [
         "Yuki Tanaka",
         "Emma Watson"
-      ]
+      ],
+      "createdAt": "2026-06-02T00:00:00.000Z",
+      "updatedAt": "2026-06-02T00:00:00.000Z",
+      "assignedAt": null
     },
     {
       "id": 39,
@@ -420,7 +534,10 @@
       "assignedUsers": [
         "Yuki Tanaka",
         "Daniel Brown"
-      ]
+      ],
+      "createdAt": "2026-07-20T00:00:00.000Z",
+      "updatedAt": "2026-07-20T00:00:00.000Z",
+      "assignedAt": null
     },
     {
       "id": 40,
@@ -430,7 +547,10 @@
       "createdDate": "2026-04-26",
       "assignedUsers": [
         "Carlos Rossi"
-      ]
+      ],
+      "createdAt": "2026-04-26T00:00:00.000Z",
+      "updatedAt": "2026-04-26T00:00:00.000Z",
+      "assignedAt": null
     }
   ],
   "tasks": [
@@ -442,7 +562,10 @@
       "priority": "Low",
       "status": "In Progress",
       "assignee": "Aisha Khan",
-      "dueDate": "2026-09-05"
+      "dueDate": "2026-09-05",
+      "createdAt": null,
+      "updatedAt": null,
+      "assignedAt": null
     },
     {
       "id": 102,
@@ -452,7 +575,10 @@
       "priority": "Medium",
       "status": "Todo",
       "assignee": "Sara Lee",
-      "dueDate": "2026-09-10"
+      "dueDate": "2026-09-10",
+      "createdAt": null,
+      "updatedAt": null,
+      "assignedAt": null
     },
     {
       "id": 103,
@@ -462,7 +588,10 @@
       "priority": "Low",
       "status": "In Progress",
       "assignee": "Emma Watson",
-      "dueDate": "2026-10-04"
+      "dueDate": "2026-10-04",
+      "createdAt": null,
+      "updatedAt": null,
+      "assignedAt": null
     },
     {
       "id": 104,
@@ -472,7 +601,10 @@
       "priority": "Medium",
       "status": "Todo",
       "assignee": "Liam Kim",
-      "dueDate": "2026-09-19"
+      "dueDate": "2026-09-19",
+      "createdAt": null,
+      "updatedAt": null,
+      "assignedAt": null
     },
     {
       "id": 105,
@@ -482,7 +614,10 @@
       "priority": "Medium",
       "status": "Review",
       "assignee": "Liam Kim",
-      "dueDate": "2026-09-17"
+      "dueDate": "2026-09-17",
+      "createdAt": null,
+      "updatedAt": null,
+      "assignedAt": null
     },
     {
       "id": 106,
@@ -492,7 +627,10 @@
       "priority": "Medium",
       "status": "In Progress",
       "assignee": "Liam Kim",
-      "dueDate": "2026-10-07"
+      "dueDate": "2026-10-07",
+      "createdAt": null,
+      "updatedAt": null,
+      "assignedAt": null
     },
     {
       "id": 107,
@@ -502,7 +640,10 @@
       "priority": "High",
       "status": "Review",
       "assignee": "Emma Watson",
-      "dueDate": "2026-09-30"
+      "dueDate": "2026-09-30",
+      "createdAt": null,
+      "updatedAt": null,
+      "assignedAt": null
     },
     {
       "id": 108,
@@ -512,7 +653,10 @@
       "priority": "High",
       "status": "In Progress",
       "assignee": "Emma Watson",
-      "dueDate": "2026-08-27"
+      "dueDate": "2026-08-27",
+      "createdAt": null,
+      "updatedAt": null,
+      "assignedAt": null
     },
     {
       "id": 109,
@@ -522,7 +666,10 @@
       "priority": "Low",
       "status": "Todo",
       "assignee": "John Doe",
-      "dueDate": "2026-09-25"
+      "dueDate": "2026-09-25",
+      "createdAt": null,
+      "updatedAt": null,
+      "assignedAt": null
     },
     {
       "id": 110,
@@ -532,7 +679,10 @@
       "priority": "Low",
       "status": "Todo",
       "assignee": "Aisha Khan",
-      "dueDate": "2026-09-18"
+      "dueDate": "2026-09-18",
+      "createdAt": null,
+      "updatedAt": null,
+      "assignedAt": null
     },
     {
       "id": 111,
@@ -542,7 +692,10 @@
       "priority": "High",
       "status": "Review",
       "assignee": "Carlos Rossi",
-      "dueDate": "2026-08-29"
+      "dueDate": "2026-08-29",
+      "createdAt": null,
+      "updatedAt": null,
+      "assignedAt": null
     },
     {
       "id": 112,
@@ -552,7 +705,10 @@
       "priority": "Low",
       "status": "Review",
       "assignee": "Ivan Petrov",
-      "dueDate": "2026-09-06"
+      "dueDate": "2026-09-06",
+      "createdAt": null,
+      "updatedAt": null,
+      "assignedAt": null
     },
     {
       "id": 113,
@@ -562,7 +718,10 @@
       "priority": "Low",
       "status": "Todo",
       "assignee": "Ahmed Hassan",
-      "dueDate": "2026-09-01"
+      "dueDate": "2026-09-01",
+      "createdAt": null,
+      "updatedAt": null,
+      "assignedAt": null
     },
     {
       "id": 114,
@@ -572,7 +731,10 @@
       "priority": "High",
       "status": "In Progress",
       "assignee": "Chen Wang",
-      "dueDate": "2026-10-02"
+      "dueDate": "2026-10-02",
+      "createdAt": null,
+      "updatedAt": null,
+      "assignedAt": null
     },
     {
       "id": 115,
@@ -582,7 +744,10 @@
       "priority": "Low",
       "status": "In Progress",
       "assignee": "Sofia Nguyen",
-      "dueDate": "2026-09-09"
+      "dueDate": "2026-09-09",
+      "createdAt": null,
+      "updatedAt": null,
+      "assignedAt": null
     },
     {
       "id": 116,
@@ -592,7 +757,10 @@
       "priority": "High",
       "status": "Review",
       "assignee": "Noah Garcia",
-      "dueDate": "2026-09-11"
+      "dueDate": "2026-09-11",
+      "createdAt": null,
+      "updatedAt": null,
+      "assignedAt": null
     },
     {
       "id": 117,
@@ -602,7 +770,10 @@
       "priority": "Medium",
       "status": "Todo",
       "assignee": "Carlos Rossi",
-      "dueDate": "2026-10-04"
+      "dueDate": "2026-10-04",
+      "createdAt": null,
+      "updatedAt": null,
+      "assignedAt": null
     },
     {
       "id": 118,
@@ -612,7 +783,10 @@
       "priority": "High",
       "status": "In Progress",
       "assignee": "Ahmed Hassan",
-      "dueDate": "2026-09-09"
+      "dueDate": "2026-09-09",
+      "createdAt": null,
+      "updatedAt": null,
+      "assignedAt": null
     },
     {
       "id": 119,
@@ -622,7 +796,10 @@
       "priority": "Low",
       "status": "Review",
       "assignee": "Ahmed Hassan",
-      "dueDate": "2026-09-11"
+      "dueDate": "2026-09-11",
+      "createdAt": null,
+      "updatedAt": null,
+      "assignedAt": null
     },
     {
       "id": 120,
@@ -632,7 +809,10 @@
       "priority": "Low",
       "status": "Done",
       "assignee": "Sofia Nguyen",
-      "dueDate": "2026-09-24"
+      "dueDate": "2026-09-24",
+      "createdAt": null,
+      "updatedAt": null,
+      "assignedAt": null
     },
     {
       "id": 121,
@@ -642,7 +822,10 @@
       "priority": "High",
       "status": "Review",
       "assignee": "Ahmed Hassan",
-      "dueDate": "2026-08-26"
+      "dueDate": "2026-08-26",
+      "createdAt": null,
+      "updatedAt": null,
+      "assignedAt": null
     },
     {
       "id": 122,
@@ -652,7 +835,10 @@
       "priority": "Low",
       "status": "Todo",
       "assignee": "Liam Kim",
-      "dueDate": "2026-09-21"
+      "dueDate": "2026-09-21",
+      "createdAt": null,
+      "updatedAt": null,
+      "assignedAt": null
     },
     {
       "id": 123,
@@ -662,7 +848,10 @@
       "priority": "High",
       "status": "In Progress",
       "assignee": "Aisha Khan",
-      "dueDate": "2026-09-27"
+      "dueDate": "2026-09-27",
+      "createdAt": null,
+      "updatedAt": null,
+      "assignedAt": null
     },
     {
       "id": 124,
@@ -672,7 +861,10 @@
       "priority": "Low",
       "status": "Review",
       "assignee": "Liam Kim",
-      "dueDate": "2026-09-01"
+      "dueDate": "2026-09-01",
+      "createdAt": null,
+      "updatedAt": null,
+      "assignedAt": null
     },
     {
       "id": 125,
@@ -682,7 +874,10 @@
       "priority": "Medium",
       "status": "Done",
       "assignee": "Carlos Rossi",
-      "dueDate": "2026-10-06"
+      "dueDate": "2026-10-06",
+      "createdAt": null,
+      "updatedAt": null,
+      "assignedAt": null
     },
     {
       "id": 126,
@@ -692,7 +887,10 @@
       "priority": "Low",
       "status": "Done",
       "assignee": "Carlos Rossi",
-      "dueDate": "2026-09-02"
+      "dueDate": "2026-09-02",
+      "createdAt": null,
+      "updatedAt": null,
+      "assignedAt": null
     },
     {
       "id": 127,
@@ -702,7 +900,10 @@
       "priority": "Medium",
       "status": "In Progress",
       "assignee": "Aisha Khan",
-      "dueDate": "2026-09-04"
+      "dueDate": "2026-09-04",
+      "createdAt": null,
+      "updatedAt": null,
+      "assignedAt": null
     },
     {
       "id": 128,
@@ -712,7 +913,10 @@
       "priority": "Medium",
       "status": "In Progress",
       "assignee": "Ahmed Hassan",
-      "dueDate": "2026-09-03"
+      "dueDate": "2026-09-03",
+      "createdAt": null,
+      "updatedAt": null,
+      "assignedAt": null
     },
     {
       "id": 129,
@@ -722,7 +926,10 @@
       "priority": "Low",
       "status": "Todo",
       "assignee": "Aisha Khan",
-      "dueDate": "2026-09-22"
+      "dueDate": "2026-09-22",
+      "createdAt": null,
+      "updatedAt": null,
+      "assignedAt": null
     },
     {
       "id": 130,
@@ -732,7 +939,10 @@
       "priority": "Medium",
       "status": "Review",
       "assignee": "Aisha Khan",
-      "dueDate": "2026-09-18"
+      "dueDate": "2026-09-18",
+      "createdAt": null,
+      "updatedAt": null,
+      "assignedAt": null
     },
     {
       "id": 131,
@@ -742,7 +952,10 @@
       "priority": "Medium",
       "status": "In Progress",
       "assignee": "Sofia Nguyen",
-      "dueDate": "2026-09-18"
+      "dueDate": "2026-09-18",
+      "createdAt": null,
+      "updatedAt": null,
+      "assignedAt": null
     },
     {
       "id": 132,
@@ -752,7 +965,10 @@
       "priority": "Medium",
       "status": "Review",
       "assignee": "Yuki Tanaka",
-      "dueDate": "2026-09-09"
+      "dueDate": "2026-09-09",
+      "createdAt": null,
+      "updatedAt": null,
+      "assignedAt": null
     },
     {
       "id": 133,
@@ -762,7 +978,10 @@
       "priority": "Medium",
       "status": "In Progress",
       "assignee": "Carlos Rossi",
-      "dueDate": "2026-09-20"
+      "dueDate": "2026-09-20",
+      "createdAt": null,
+      "updatedAt": null,
+      "assignedAt": null
     },
     {
       "id": 134,
@@ -772,7 +991,10 @@
       "priority": "High",
       "status": "In Progress",
       "assignee": "Ivan Petrov",
-      "dueDate": "2026-08-26"
+      "dueDate": "2026-08-26",
+      "createdAt": null,
+      "updatedAt": null,
+      "assignedAt": null
     },
     {
       "id": 135,
@@ -782,7 +1004,10 @@
       "priority": "High",
       "status": "Review",
       "assignee": "Noah Garcia",
-      "dueDate": "2026-09-20"
+      "dueDate": "2026-09-20",
+      "createdAt": null,
+      "updatedAt": null,
+      "assignedAt": null
     },
     {
       "id": 136,
@@ -792,7 +1017,10 @@
       "priority": "Medium",
       "status": "Done",
       "assignee": "Ivan Petrov",
-      "dueDate": "2026-09-12"
+      "dueDate": "2026-09-12",
+      "createdAt": null,
+      "updatedAt": null,
+      "assignedAt": null
     },
     {
       "id": 137,
@@ -802,7 +1030,10 @@
       "priority": "High",
       "status": "Done",
       "assignee": "Sofia Nguyen",
-      "dueDate": "2026-09-28"
+      "dueDate": "2026-09-28",
+      "createdAt": null,
+      "updatedAt": null,
+      "assignedAt": null
     },
     {
       "id": 138,
@@ -812,7 +1043,10 @@
       "priority": "Low",
       "status": "Review",
       "assignee": "Sara Lee",
-      "dueDate": "2026-10-02"
+      "dueDate": "2026-10-02",
+      "createdAt": null,
+      "updatedAt": null,
+      "assignedAt": null
     },
     {
       "id": 139,
@@ -822,7 +1056,10 @@
       "priority": "High",
       "status": "Review",
       "assignee": "Carlos Rossi",
-      "dueDate": "2026-09-06"
+      "dueDate": "2026-09-06",
+      "createdAt": null,
+      "updatedAt": null,
+      "assignedAt": null
     },
     {
       "id": 140,
@@ -832,7 +1069,10 @@
       "priority": "High",
       "status": "Done",
       "assignee": "Noah Garcia",
-      "dueDate": "2026-09-21"
+      "dueDate": "2026-09-21",
+      "createdAt": null,
+      "updatedAt": null,
+      "assignedAt": null
     },
     {
       "id": 141,
@@ -842,7 +1082,10 @@
       "priority": "Low",
       "status": "In Progress",
       "assignee": "Noah Garcia",
-      "dueDate": "2026-08-30"
+      "dueDate": "2026-08-30",
+      "createdAt": null,
+      "updatedAt": null,
+      "assignedAt": null
     },
     {
       "id": 142,
@@ -852,7 +1095,10 @@
       "priority": "Medium",
       "status": "Todo",
       "assignee": "Aisha Khan",
-      "dueDate": "2026-10-02"
+      "dueDate": "2026-10-02",
+      "createdAt": null,
+      "updatedAt": null,
+      "assignedAt": null
     },
     {
       "id": 143,
@@ -862,7 +1108,10 @@
       "priority": "High",
       "status": "Todo",
       "assignee": "Sofia Nguyen",
-      "dueDate": "2026-09-03"
+      "dueDate": "2026-09-03",
+      "createdAt": null,
+      "updatedAt": null,
+      "assignedAt": null
     },
     {
       "id": 144,
@@ -872,7 +1121,10 @@
       "priority": "Medium",
       "status": "Review",
       "assignee": "Noah Garcia",
-      "dueDate": "2026-10-02"
+      "dueDate": "2026-10-02",
+      "createdAt": null,
+      "updatedAt": null,
+      "assignedAt": null
     },
     {
       "id": 145,
@@ -882,7 +1134,10 @@
       "priority": "Medium",
       "status": "In Progress",
       "assignee": "Carlos Rossi",
-      "dueDate": "2026-09-08"
+      "dueDate": "2026-09-08",
+      "createdAt": null,
+      "updatedAt": null,
+      "assignedAt": null
     },
     {
       "id": 146,
@@ -892,7 +1147,10 @@
       "priority": "Medium",
       "status": "Todo",
       "assignee": "Liam Kim",
-      "dueDate": "2026-09-19"
+      "dueDate": "2026-09-19",
+      "createdAt": null,
+      "updatedAt": null,
+      "assignedAt": null
     },
     {
       "id": 147,
@@ -902,7 +1160,10 @@
       "priority": "Low",
       "status": "Done",
       "assignee": "Aisha Khan",
-      "dueDate": "2026-09-20"
+      "dueDate": "2026-09-20",
+      "createdAt": null,
+      "updatedAt": null,
+      "assignedAt": null
     },
     {
       "id": 148,
@@ -912,7 +1173,10 @@
       "priority": "Medium",
       "status": "Review",
       "assignee": "Ahmed Hassan",
-      "dueDate": "2026-09-22"
+      "dueDate": "2026-09-22",
+      "createdAt": null,
+      "updatedAt": null,
+      "assignedAt": null
     },
     {
       "id": 149,
@@ -922,7 +1186,10 @@
       "priority": "Medium",
       "status": "Todo",
       "assignee": "Olivia Müller",
-      "dueDate": "2026-09-02"
+      "dueDate": "2026-09-02",
+      "createdAt": null,
+      "updatedAt": null,
+      "assignedAt": null
     },
     {
       "id": 150,
@@ -932,7 +1199,10 @@
       "priority": "Medium",
       "status": "Review",
       "assignee": "Olivia Müller",
-      "dueDate": "2026-09-04"
+      "dueDate": "2026-09-04",
+      "createdAt": null,
+      "updatedAt": null,
+      "assignedAt": null
     },
     {
       "id": 151,
@@ -942,7 +1212,10 @@
       "priority": "High",
       "status": "Review",
       "assignee": "John Doe",
-      "dueDate": "2026-09-21"
+      "dueDate": "2026-09-21",
+      "createdAt": null,
+      "updatedAt": null,
+      "assignedAt": null
     },
     {
       "id": 152,
@@ -952,7 +1225,10 @@
       "priority": "High",
       "status": "In Progress",
       "assignee": "Ahmed Hassan",
-      "dueDate": "2026-09-02"
+      "dueDate": "2026-09-02",
+      "createdAt": null,
+      "updatedAt": null,
+      "assignedAt": null
     },
     {
       "id": 153,
@@ -962,7 +1238,10 @@
       "priority": "High",
       "status": "In Progress",
       "assignee": "Emma Watson",
-      "dueDate": "2026-09-27"
+      "dueDate": "2026-09-27",
+      "createdAt": null,
+      "updatedAt": null,
+      "assignedAt": null
     },
     {
       "id": 154,
@@ -972,7 +1251,10 @@
       "priority": "Medium",
       "status": "Done",
       "assignee": "Liam Kim",
-      "dueDate": "2026-09-01"
+      "dueDate": "2026-09-01",
+      "createdAt": null,
+      "updatedAt": null,
+      "assignedAt": null
     },
     {
       "id": 155,
@@ -982,7 +1264,10 @@
       "priority": "High",
       "status": "Review",
       "assignee": "John Doe",
-      "dueDate": "2026-09-02"
+      "dueDate": "2026-09-02",
+      "createdAt": null,
+      "updatedAt": null,
+      "assignedAt": null
     },
     {
       "id": 156,
@@ -992,7 +1277,10 @@
       "priority": "Low",
       "status": "Review",
       "assignee": "Priya Sharma",
-      "dueDate": "2026-09-29"
+      "dueDate": "2026-09-29",
+      "createdAt": null,
+      "updatedAt": null,
+      "assignedAt": null
     },
     {
       "id": 157,
@@ -1002,7 +1290,10 @@
       "priority": "Medium",
       "status": "Done",
       "assignee": "Noah Garcia",
-      "dueDate": "2026-09-13"
+      "dueDate": "2026-09-13",
+      "createdAt": null,
+      "updatedAt": null,
+      "assignedAt": null
     },
     {
       "id": 158,
@@ -1012,7 +1303,10 @@
       "priority": "High",
       "status": "Done",
       "assignee": "Sofia Nguyen",
-      "dueDate": "2026-09-21"
+      "dueDate": "2026-09-21",
+      "createdAt": null,
+      "updatedAt": null,
+      "assignedAt": null
     },
     {
       "id": 159,
@@ -1022,7 +1316,10 @@
       "priority": "High",
       "status": "In Progress",
       "assignee": "Yuki Tanaka",
-      "dueDate": "2026-09-01"
+      "dueDate": "2026-09-01",
+      "createdAt": null,
+      "updatedAt": null,
+      "assignedAt": null
     },
     {
       "id": 160,
@@ -1032,7 +1329,10 @@
       "priority": "Low",
       "status": "Todo",
       "assignee": "Noah Garcia",
-      "dueDate": "2026-09-07"
+      "dueDate": "2026-09-07",
+      "createdAt": null,
+      "updatedAt": null,
+      "assignedAt": null
     },
     {
       "id": 161,
@@ -1042,7 +1342,10 @@
       "priority": "High",
       "status": "In Progress",
       "assignee": "Noah Garcia",
-      "dueDate": "2026-09-21"
+      "dueDate": "2026-09-21",
+      "createdAt": null,
+      "updatedAt": null,
+      "assignedAt": null
     },
     {
       "id": 162,
@@ -1052,7 +1355,10 @@
       "priority": "Low",
       "status": "In Progress",
       "assignee": "Tom Becker",
-      "dueDate": "2026-09-03"
+      "dueDate": "2026-09-03",
+      "createdAt": null,
+      "updatedAt": null,
+      "assignedAt": null
     },
     {
       "id": 163,
@@ -1062,7 +1368,10 @@
       "priority": "High",
       "status": "Todo",
       "assignee": "Tom Becker",
-      "dueDate": "2026-10-03"
+      "dueDate": "2026-10-03",
+      "createdAt": null,
+      "updatedAt": null,
+      "assignedAt": null
     },
     {
       "id": 164,
@@ -1072,7 +1381,10 @@
       "priority": "Medium",
       "status": "Todo",
       "assignee": "Aisha Khan",
-      "dueDate": "2026-09-01"
+      "dueDate": "2026-09-01",
+      "createdAt": null,
+      "updatedAt": null,
+      "assignedAt": null
     },
     {
       "id": 165,
@@ -1082,7 +1394,10 @@
       "priority": "Low",
       "status": "Review",
       "assignee": "Aisha Khan",
-      "dueDate": "2026-08-31"
+      "dueDate": "2026-08-31",
+      "createdAt": null,
+      "updatedAt": null,
+      "assignedAt": null
     },
     {
       "id": 166,
@@ -1092,7 +1407,10 @@
       "priority": "High",
       "status": "Review",
       "assignee": "Noah Garcia",
-      "dueDate": "2026-09-07"
+      "dueDate": "2026-09-07",
+      "createdAt": null,
+      "updatedAt": null,
+      "assignedAt": null
     },
     {
       "id": 167,
@@ -1102,7 +1420,10 @@
       "priority": "High",
       "status": "In Progress",
       "assignee": "Sofia Nguyen",
-      "dueDate": "2026-09-04"
+      "dueDate": "2026-09-04",
+      "createdAt": null,
+      "updatedAt": null,
+      "assignedAt": null
     },
     {
       "id": 168,
@@ -1112,7 +1433,10 @@
       "priority": "Low",
       "status": "Todo",
       "assignee": "Raj Patel",
-      "dueDate": "2026-09-04"
+      "dueDate": "2026-09-04",
+      "createdAt": null,
+      "updatedAt": null,
+      "assignedAt": null
     },
     {
       "id": 169,
@@ -1122,7 +1446,10 @@
       "priority": "Medium",
       "status": "Review",
       "assignee": "Noah Garcia",
-      "dueDate": "2026-09-29"
+      "dueDate": "2026-09-29",
+      "createdAt": null,
+      "updatedAt": null,
+      "assignedAt": null
     },
     {
       "id": 170,
@@ -1132,7 +1459,10 @@
       "priority": "Low",
       "status": "In Progress",
       "assignee": "Carlos Rossi",
-      "dueDate": "2026-09-27"
+      "dueDate": "2026-09-27",
+      "createdAt": null,
+      "updatedAt": null,
+      "assignedAt": null
     },
     {
       "id": 171,
@@ -1142,7 +1472,10 @@
       "priority": "High",
       "status": "Done",
       "assignee": "Carlos Rossi",
-      "dueDate": "2026-09-03"
+      "dueDate": "2026-09-03",
+      "createdAt": null,
+      "updatedAt": null,
+      "assignedAt": null
     },
     {
       "id": 172,
@@ -1152,7 +1485,10 @@
       "priority": "Low",
       "status": "Todo",
       "assignee": "Priya Sharma",
-      "dueDate": "2026-09-26"
+      "dueDate": "2026-09-26",
+      "createdAt": null,
+      "updatedAt": null,
+      "assignedAt": null
     },
     {
       "id": 173,
@@ -1162,7 +1498,10 @@
       "priority": "Medium",
       "status": "In Progress",
       "assignee": "Ivan Petrov",
-      "dueDate": "2026-09-24"
+      "dueDate": "2026-09-24",
+      "createdAt": null,
+      "updatedAt": null,
+      "assignedAt": null
     },
     {
       "id": 174,
@@ -1172,7 +1511,10 @@
       "priority": "Low",
       "status": "Review",
       "assignee": "Ahmed Hassan",
-      "dueDate": "2026-09-24"
+      "dueDate": "2026-09-24",
+      "createdAt": null,
+      "updatedAt": null,
+      "assignedAt": null
     },
     {
       "id": 175,
@@ -1182,7 +1524,10 @@
       "priority": "High",
       "status": "Done",
       "assignee": "Ahmed Hassan",
-      "dueDate": "2026-09-20"
+      "dueDate": "2026-09-20",
+      "createdAt": null,
+      "updatedAt": null,
+      "assignedAt": null
     },
     {
       "id": 176,
@@ -1192,7 +1537,10 @@
       "priority": "High",
       "status": "Todo",
       "assignee": "Aisha Khan",
-      "dueDate": "2026-09-03"
+      "dueDate": "2026-09-03",
+      "createdAt": null,
+      "updatedAt": null,
+      "assignedAt": null
     },
     {
       "id": 177,
@@ -1202,7 +1550,10 @@
       "priority": "High",
       "status": "Done",
       "assignee": "Aisha Khan",
-      "dueDate": "2026-09-17"
+      "dueDate": "2026-09-17",
+      "createdAt": null,
+      "updatedAt": null,
+      "assignedAt": null
     },
     {
       "id": 178,
@@ -1212,7 +1563,10 @@
       "priority": "Medium",
       "status": "Todo",
       "assignee": "Sara Lee",
-      "dueDate": "2026-09-22"
+      "dueDate": "2026-09-22",
+      "createdAt": null,
+      "updatedAt": null,
+      "assignedAt": null
     },
     {
       "id": 179,
@@ -1222,7 +1576,10 @@
       "priority": "Low",
       "status": "Done",
       "assignee": "Aisha Khan",
-      "dueDate": "2026-09-20"
+      "dueDate": "2026-09-20",
+      "createdAt": null,
+      "updatedAt": null,
+      "assignedAt": null
     },
     {
       "id": 180,
@@ -1232,7 +1589,10 @@
       "priority": "Low",
       "status": "In Progress",
       "assignee": "Carlos Rossi",
-      "dueDate": "2026-09-11"
+      "dueDate": "2026-09-11",
+      "createdAt": null,
+      "updatedAt": null,
+      "assignedAt": null
     },
     {
       "id": 181,
@@ -1242,7 +1602,10 @@
       "priority": "Medium",
       "status": "Todo",
       "assignee": "Noah Garcia",
-      "dueDate": "2026-09-23"
+      "dueDate": "2026-09-23",
+      "createdAt": null,
+      "updatedAt": null,
+      "assignedAt": null
     },
     {
       "id": 182,
@@ -1252,7 +1615,10 @@
       "priority": "Medium",
       "status": "In Progress",
       "assignee": "Liam Kim",
-      "dueDate": "2026-09-26"
+      "dueDate": "2026-09-26",
+      "createdAt": null,
+      "updatedAt": null,
+      "assignedAt": null
     },
     {
       "id": 183,
@@ -1262,7 +1628,10 @@
       "priority": "Medium",
       "status": "Review",
       "assignee": "Liam Kim",
-      "dueDate": "2026-10-03"
+      "dueDate": "2026-10-03",
+      "createdAt": null,
+      "updatedAt": null,
+      "assignedAt": null
     },
     {
       "id": 184,
@@ -1272,7 +1641,10 @@
       "priority": "Low",
       "status": "In Progress",
       "assignee": "Emma Watson",
-      "dueDate": "2026-09-12"
+      "dueDate": "2026-09-12",
+      "createdAt": null,
+      "updatedAt": null,
+      "assignedAt": null
     },
     {
       "id": 185,
@@ -1282,7 +1654,10 @@
       "priority": "High",
       "status": "In Progress",
       "assignee": "Maria Silva",
-      "dueDate": "2026-09-12"
+      "dueDate": "2026-09-12",
+      "createdAt": null,
+      "updatedAt": null,
+      "assignedAt": null
     },
     {
       "id": 186,
@@ -1292,7 +1667,10 @@
       "priority": "Medium",
       "status": "Review",
       "assignee": "Carlos Rossi",
-      "dueDate": "2026-09-16"
+      "dueDate": "2026-09-16",
+      "createdAt": null,
+      "updatedAt": null,
+      "assignedAt": null
     },
     {
       "id": 187,
@@ -1302,7 +1680,10 @@
       "priority": "High",
       "status": "Todo",
       "assignee": "Priya Sharma",
-      "dueDate": "2026-09-18"
+      "dueDate": "2026-09-18",
+      "createdAt": null,
+      "updatedAt": null,
+      "assignedAt": null
     },
     {
       "id": 188,
@@ -1312,7 +1693,10 @@
       "priority": "Medium",
       "status": "Done",
       "assignee": "Aisha Khan",
-      "dueDate": "2026-10-03"
+      "dueDate": "2026-10-03",
+      "createdAt": null,
+      "updatedAt": null,
+      "assignedAt": null
     },
     {
       "id": 189,
@@ -1322,7 +1706,10 @@
       "priority": "Low",
       "status": "In Progress",
       "assignee": "Yuki Tanaka",
-      "dueDate": "2026-09-28"
+      "dueDate": "2026-09-28",
+      "createdAt": null,
+      "updatedAt": null,
+      "assignedAt": null
     },
     {
       "id": 190,
@@ -1332,7 +1719,10 @@
       "priority": "Low",
       "status": "Review",
       "assignee": "Yuki Tanaka",
-      "dueDate": "2026-09-11"
+      "dueDate": "2026-09-11",
+      "createdAt": null,
+      "updatedAt": null,
+      "assignedAt": null
     },
     {
       "id": 191,
@@ -1342,7 +1732,10 @@
       "priority": "Low",
       "status": "Todo",
       "assignee": "Ahmed Hassan",
-      "dueDate": "2026-09-04"
+      "dueDate": "2026-09-04",
+      "createdAt": null,
+      "updatedAt": null,
+      "assignedAt": null
     },
     {
       "id": 192,
@@ -1352,7 +1745,10 @@
       "priority": "Low",
       "status": "Done",
       "assignee": "John Doe",
-      "dueDate": "2026-08-30"
+      "dueDate": "2026-08-30",
+      "createdAt": null,
+      "updatedAt": null,
+      "assignedAt": null
     },
     {
       "id": 193,
@@ -1362,7 +1758,10 @@
       "priority": "Medium",
       "status": "Done",
       "assignee": "Olivia Müller",
-      "dueDate": "2026-09-14"
+      "dueDate": "2026-09-14",
+      "createdAt": null,
+      "updatedAt": null,
+      "assignedAt": null
     },
     {
       "id": 194,
@@ -1372,7 +1771,10 @@
       "priority": "Medium",
       "status": "Done",
       "assignee": "Olivia Müller",
-      "dueDate": "2026-09-05"
+      "dueDate": "2026-09-05",
+      "createdAt": null,
+      "updatedAt": null,
+      "assignedAt": null
     },
     {
       "id": 195,
@@ -1382,7 +1784,10 @@
       "priority": "Low",
       "status": "Review",
       "assignee": "Noah Garcia",
-      "dueDate": "2026-09-17"
+      "dueDate": "2026-09-17",
+      "createdAt": null,
+      "updatedAt": null,
+      "assignedAt": null
     },
     {
       "id": 196,
@@ -1392,7 +1797,10 @@
       "priority": "Low",
       "status": "Todo",
       "assignee": "Olivia Müller",
-      "dueDate": "2026-09-28"
+      "dueDate": "2026-09-28",
+      "createdAt": null,
+      "updatedAt": null,
+      "assignedAt": null
     },
     {
       "id": 197,
@@ -1402,7 +1810,10 @@
       "priority": "High",
       "status": "Todo",
       "assignee": "Olivia Müller",
-      "dueDate": "2026-10-01"
+      "dueDate": "2026-10-01",
+      "createdAt": null,
+      "updatedAt": null,
+      "assignedAt": null
     },
     {
       "id": 198,
@@ -1412,7 +1823,10 @@
       "priority": "Medium",
       "status": "Review",
       "assignee": "Ahmed Hassan",
-      "dueDate": "2026-09-03"
+      "dueDate": "2026-09-03",
+      "createdAt": null,
+      "updatedAt": null,
+      "assignedAt": null
     },
     {
       "id": 199,
@@ -1422,7 +1836,10 @@
       "priority": "High",
       "status": "Review",
       "assignee": "Sara Lee",
-      "dueDate": "2026-09-20"
+      "dueDate": "2026-09-20",
+      "createdAt": null,
+      "updatedAt": null,
+      "assignedAt": null
     },
     {
       "id": 200,
@@ -1432,7 +1849,10 @@
       "priority": "Medium",
       "status": "In Progress",
       "assignee": "John Doe",
-      "dueDate": "2026-09-10"
+      "dueDate": "2026-09-10",
+      "createdAt": null,
+      "updatedAt": null,
+      "assignedAt": null
     },
     {
       "id": 201,
@@ -1442,7 +1862,10 @@
       "priority": "High",
       "status": "Todo",
       "assignee": "John Doe",
-      "dueDate": "2026-10-01"
+      "dueDate": "2026-10-01",
+      "createdAt": null,
+      "updatedAt": null,
+      "assignedAt": null
     },
     {
       "id": 202,
@@ -1452,7 +1875,10 @@
       "priority": "Low",
       "status": "Review",
       "assignee": "Liam Kim",
-      "dueDate": "2026-09-15"
+      "dueDate": "2026-09-15",
+      "createdAt": null,
+      "updatedAt": null,
+      "assignedAt": null
     },
     {
       "id": 203,
@@ -1462,7 +1888,10 @@
       "priority": "Low",
       "status": "Todo",
       "assignee": "Aisha Khan",
-      "dueDate": "2026-09-20"
+      "dueDate": "2026-09-20",
+      "createdAt": null,
+      "updatedAt": null,
+      "assignedAt": null
     },
     {
       "id": 204,
@@ -1472,7 +1901,10 @@
       "priority": "Low",
       "status": "Done",
       "assignee": "Maria Silva",
-      "dueDate": "2026-09-28"
+      "dueDate": "2026-09-28",
+      "createdAt": null,
+      "updatedAt": null,
+      "assignedAt": null
     },
     {
       "id": 205,
@@ -1482,7 +1914,10 @@
       "priority": "High",
       "status": "Review",
       "assignee": "Chen Wang",
-      "dueDate": "2026-08-29"
+      "dueDate": "2026-08-29",
+      "createdAt": null,
+      "updatedAt": null,
+      "assignedAt": null
     },
     {
       "id": 206,
@@ -1492,7 +1927,10 @@
       "priority": "Low",
       "status": "Done",
       "assignee": "Carlos Rossi",
-      "dueDate": "2026-09-03"
+      "dueDate": "2026-09-03",
+      "createdAt": null,
+      "updatedAt": null,
+      "assignedAt": null
     },
     {
       "id": 207,
@@ -1502,7 +1940,10 @@
       "priority": "Low",
       "status": "Done",
       "assignee": "Carlos Rossi",
-      "dueDate": "2026-09-10"
+      "dueDate": "2026-09-10",
+      "createdAt": null,
+      "updatedAt": null,
+      "assignedAt": null
     },
     {
       "id": 208,
@@ -1512,7 +1953,10 @@
       "priority": "Medium",
       "status": "Done",
       "assignee": "Liam Kim",
-      "dueDate": "2026-09-03"
+      "dueDate": "2026-09-03",
+      "createdAt": null,
+      "updatedAt": null,
+      "assignedAt": null
     },
     {
       "id": 209,
@@ -1522,7 +1966,10 @@
       "priority": "Low",
       "status": "In Progress",
       "assignee": "Liam Kim",
-      "dueDate": "2026-09-03"
+      "dueDate": "2026-09-03",
+      "createdAt": null,
+      "updatedAt": null,
+      "assignedAt": null
     },
     {
       "id": 210,
@@ -1532,7 +1979,10 @@
       "priority": "Medium",
       "status": "In Progress",
       "assignee": "John Doe",
-      "dueDate": "2026-09-07"
+      "dueDate": "2026-09-07",
+      "createdAt": null,
+      "updatedAt": null,
+      "assignedAt": null
     },
     {
       "id": 211,
@@ -1542,7 +1992,10 @@
       "priority": "High",
       "status": "In Progress",
       "assignee": "John Doe",
-      "dueDate": "2026-09-20"
+      "dueDate": "2026-09-20",
+      "createdAt": null,
+      "updatedAt": null,
+      "assignedAt": null
     },
     {
       "id": 212,
@@ -1552,7 +2005,10 @@
       "priority": "High",
       "status": "Todo",
       "assignee": "Priya Sharma",
-      "dueDate": "2026-08-29"
+      "dueDate": "2026-08-29",
+      "createdAt": null,
+      "updatedAt": null,
+      "assignedAt": null
     },
     {
       "id": 213,
@@ -1562,7 +2018,10 @@
       "priority": "Low",
       "status": "Todo",
       "assignee": "Priya Sharma",
-      "dueDate": "2026-09-25"
+      "dueDate": "2026-09-25",
+      "createdAt": null,
+      "updatedAt": null,
+      "assignedAt": null
     },
     {
       "id": 214,
@@ -1572,7 +2031,10 @@
       "priority": "Low",
       "status": "Review",
       "assignee": "Noah Garcia",
-      "dueDate": "2026-09-11"
+      "dueDate": "2026-09-11",
+      "createdAt": null,
+      "updatedAt": null,
+      "assignedAt": null
     },
     {
       "id": 215,
@@ -1582,7 +2044,10 @@
       "priority": "Low",
       "status": "Todo",
       "assignee": "Noah Garcia",
-      "dueDate": "2026-10-02"
+      "dueDate": "2026-10-02",
+      "createdAt": null,
+      "updatedAt": null,
+      "assignedAt": null
     },
     {
       "id": 216,
@@ -1592,7 +2057,10 @@
       "priority": "High",
       "status": "Done",
       "assignee": "Sofia Nguyen",
-      "dueDate": "2026-09-27"
+      "dueDate": "2026-09-27",
+      "createdAt": null,
+      "updatedAt": null,
+      "assignedAt": null
     },
     {
       "id": 217,
@@ -1602,7 +2070,10 @@
       "priority": "High",
       "status": "Todo",
       "assignee": "Sofia Nguyen",
-      "dueDate": "2026-10-02"
+      "dueDate": "2026-10-02",
+      "createdAt": null,
+      "updatedAt": null,
+      "assignedAt": null
     },
     {
       "id": 218,
@@ -1612,7 +2083,10 @@
       "priority": "Low",
       "status": "In Progress",
       "assignee": "Emma Watson",
-      "dueDate": "2026-09-09"
+      "dueDate": "2026-09-09",
+      "createdAt": null,
+      "updatedAt": null,
+      "assignedAt": null
     },
     {
       "id": 219,
@@ -1622,7 +2096,10 @@
       "priority": "Low",
       "status": "Todo",
       "assignee": "Yuki Tanaka",
-      "dueDate": "2026-09-28"
+      "dueDate": "2026-09-28",
+      "createdAt": null,
+      "updatedAt": null,
+      "assignedAt": null
     },
     {
       "id": 220,
@@ -1632,7 +2109,10 @@
       "priority": "Medium",
       "status": "Todo",
       "assignee": "Daniel Brown",
-      "dueDate": "2026-10-01"
+      "dueDate": "2026-10-01",
+      "createdAt": null,
+      "updatedAt": null,
+      "assignedAt": null
     },
     {
       "id": 221,
@@ -1642,7 +2122,10 @@
       "priority": "Low",
       "status": "Todo",
       "assignee": "Yuki Tanaka",
-      "dueDate": "2026-09-13"
+      "dueDate": "2026-09-13",
+      "createdAt": null,
+      "updatedAt": null,
+      "assignedAt": null
     }
   ],
   "users": [

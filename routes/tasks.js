@@ -1,6 +1,7 @@
 const express = require('express');
 const router = express.Router();
 const db = require('../utils/db');
+const { createAuditFields, updateAuditFields } = require('../utils/audit');
 const {
   applyFilters,
   applyDateRange,
@@ -81,6 +82,7 @@ router.post('/', (req, res) => {
     status: req.body.status || 'Todo',
     assignee: req.body.assignee || '',
     dueDate: req.body.dueDate || new Date().toISOString().split('T')[0],
+    ...createAuditFields(Boolean(req.body.assignee)),
   };
 
   if (!newTask.taskTitle || !newTask.projectId) {
@@ -101,7 +103,7 @@ router.put('/:id', (req, res) => {
     return res.status(404).json({ message: 'Task not found' });
   }
 
-  tasks[index] = { ...tasks[index], ...req.body, id: tasks[index].id };
+  tasks[index] = updateAuditFields(tasks[index], req.body, 'assignee');
   db.setCollection('tasks', tasks);
   res.json(tasks[index]);
 });
@@ -115,7 +117,7 @@ router.patch('/:id', (req, res) => {
     return res.status(404).json({ message: 'Task not found' });
   }
 
-  tasks[index] = { ...tasks[index], ...req.body };
+  tasks[index] = updateAuditFields(tasks[index], req.body, 'assignee');
   db.setCollection('tasks', tasks);
   res.json(tasks[index]);
 });

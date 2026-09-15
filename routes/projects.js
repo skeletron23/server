@@ -1,6 +1,7 @@
 const express = require('express');
 const router = express.Router();
 const db = require('../utils/db');
+const { createAuditFields, updateAuditFields } = require('../utils/audit');
 const {
   applySearch,
   applyFilters,
@@ -57,6 +58,7 @@ router.post('/', (req, res) => {
     status: req.body.status || 'Active',
     createdDate: req.body.createdDate || new Date().toISOString().split('T')[0],
     assignedUsers: req.body.assignedUsers || [],
+    ...createAuditFields((req.body.assignedUsers || []).length > 0),
   };
 
   if (!newProject.projectName) {
@@ -77,7 +79,7 @@ router.put('/:id', (req, res) => {
     return res.status(404).json({ message: 'Project not found' });
   }
 
-  projects[index] = { ...projects[index], ...req.body, id: projects[index].id };
+  projects[index] = updateAuditFields(projects[index], req.body, 'assignedUsers');
   db.setCollection('projects', projects);
   res.json(projects[index]);
 });

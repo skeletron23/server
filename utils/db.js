@@ -15,6 +15,33 @@ function writeDb(data) {
 // Load once into memory when the server starts.
 let db = readDb();
 
+function migrateAuditFields() {
+  let changed = false;
+
+  ['projects', 'tasks'].forEach((collectionName) => {
+    db[collectionName].forEach((record) => {
+      if (!Object.prototype.hasOwnProperty.call(record, 'createdAt')) {
+        record.createdAt = record.createdDate
+          ? `${record.createdDate}T00:00:00.000Z`
+          : null;
+        changed = true;
+      }
+      if (!Object.prototype.hasOwnProperty.call(record, 'updatedAt')) {
+        record.updatedAt = record.createdAt;
+        changed = true;
+      }
+      if (!Object.prototype.hasOwnProperty.call(record, 'assignedAt')) {
+        record.assignedAt = null;
+        changed = true;
+      }
+    });
+  });
+
+  if (changed) writeDb(db);
+}
+
+migrateAuditFields();
+
 function getCollection(name) {
   return db[name];
 }

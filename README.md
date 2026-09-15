@@ -36,6 +36,10 @@ Query params on `GET /projects`:
 - `sortBy`, `sortOrder` — e.g. `?sortBy=createdDate&sortOrder=desc`
 - `page`, `limit` — pagination
 
+Projects include server-managed `createdAt`, `updatedAt`, and `assignedAt`
+timestamps. `updatedAt` changes on every project update, while `assignedAt`
+changes when `assignedUsers` changes.
+
 ### Tasks — `/tasks`
 | Method | Path | Description |
 |--------|------|--------------|
@@ -52,6 +56,10 @@ Query params on `GET /tasks` (all combine with AND logic):
 - `dueDateFrom`, `dueDateTo` — date range filter
 - `sortBy`, `sortOrder`
 - `page`, `limit`
+
+Tasks include server-managed `createdAt`, `updatedAt`, and `assignedAt`
+timestamps. `updatedAt` changes on every task update, while `assignedAt`
+changes when `assignee` changes.
 
 Example combining everything:
 ```
