@@ -1,16 +1,22 @@
 const express = require('express');
 const cors = require('cors');
+const http = require('http');
+const { Server } = require('socket.io');
 
 const projectsRouter = require('./routes/projects');
 const tasksRouter = require('./routes/tasks');
 const usersRouter = require('./routes/users');
 const dashboardRouter = require('./routes/dashboard');
 const authRouter = require('./routes/auth');
+const chatRouter = require('./routes/chat');
 
 const app = express();
+const corsOptions = { origin: '*' };
+const httpServer = http.createServer(app);
+const io = new Server(httpServer, { cors: corsOptions });
 const PORT = process.env.PORT || 3001;
 
-app.use(cors());
+app.use(cors(corsOptions));
 app.use(express.json());
 
 // Simple request logger — handy while developing
@@ -24,6 +30,7 @@ app.use('/tasks', tasksRouter);
 app.use('/users', usersRouter);
 app.use('/dashboard', dashboardRouter);
 app.use('/auth', authRouter);
+app.use('/conversations', chatRouter);
 
 app.get('/', (req, res) => {
   res.json({ message: 'Project Management Dashboard API is running' });
@@ -40,6 +47,6 @@ app.use((err, req, res, next) => {
   res.status(500).json({ message: 'Internal server error' });
 });
 
-app.listen(PORT, () => {
+httpServer.listen(PORT, () => {
   console.log(`Server running at http://localhost:${PORT}`);
 });
