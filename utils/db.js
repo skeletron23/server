@@ -57,43 +57,22 @@ function getNextId(name) {
   return Math.max(...records.map((r) => r.id)) + 1;
 }
 
-function getConversations(userId) {
-  return db.conversations.filter((conversation) =>
-    conversation.participants.some(
-      (participant) => String(participant) === String(userId)
-    )
-  );
-}
-
-function createConversation(participants) {
-  if (!Array.isArray(participants) || participants.length === 0) {
-    throw new Error('participants must be a non-empty array');
-  }
-
-  const conversations = db.conversations;
-  const conversation = {
-    id: getNextId('conversations'),
-    participants,
-    createdAt: new Date().toISOString(),
-  };
-
-  conversations.push(conversation);
-  setCollection('conversations', conversations);
-  return conversation;
-}
-
-function getMessages(conversationId) {
+function getMessagesBetweenUsers(userId, otherUserId) {
   return db.messages.filter(
-    (message) => String(message.conversationId) === String(conversationId)
+    (message) =>
+      (String(message.senderId) === String(userId) &&
+        String(message.recipientId) === String(otherUserId)) ||
+      (String(message.senderId) === String(otherUserId) &&
+        String(message.recipientId) === String(userId))
   );
 }
 
-function addMessage(conversationId, senderId, text) {
-  if (conversationId === undefined || conversationId === null) {
-    throw new Error('conversationId is required');
-  }
+function addMessage(senderId, recipientId, text) {
   if (senderId === undefined || senderId === null) {
     throw new Error('senderId is required');
+  }
+  if (recipientId === undefined || recipientId === null) {
+    throw new Error('recipientId is required');
   }
   if (typeof text !== 'string' || text.trim() === '') {
     throw new Error('text is required');
@@ -102,8 +81,8 @@ function addMessage(conversationId, senderId, text) {
   const messages = db.messages;
   const message = {
     id: getNextId('messages'),
-    conversationId,
     senderId,
+    recipientId,
     text,
     createdAt: new Date().toISOString(),
   };
@@ -117,8 +96,6 @@ module.exports = {
   getCollection,
   setCollection,
   getNextId,
-  getConversations,
-  createConversation,
-  getMessages,
+  getMessagesBetweenUsers,
   addMessage,
 };

@@ -2,6 +2,7 @@ const express = require('express');
 const cors = require('cors');
 const http = require('http');
 const { Server } = require('socket.io');
+const db = require('./utils/db');
 
 const projectsRouter = require('./routes/projects');
 const tasksRouter = require('./routes/tasks');
@@ -15,6 +16,35 @@ const corsOptions = { origin: '*' };
 const httpServer = http.createServer(app);
 const io = new Server(httpServer, { cors: corsOptions });
 const PORT = process.env.PORT || 3001;
+
+io.on('connection', (socket) => {
+  const { userId, username } = socket.handshake.auth || {};
+  socket.userId = userId;
+  socket.username = username;
+
+  if (userId !== undefined && userId !== null) {
+    socket.join(String(userId));
+  }
+
+  socket.on('sendMessage', ({ recipientId, text } = {}) => {
+    if (socket.userId === undefined || socket.userId === null) {
+      return socket.emit('messageError', { message: 'userId is required' });
+    }
+
+    try {
+      const message = db.addMessage(socket.userId, recipientId, text);
+
+      io.to(String(recipientId)).emit('newMessage', message);
+      io.to(String(socket.userId)).emit('newMessage', message);
+    } catch (error) {
+      socket.emit('messageError', { message: error.message });
+    }
+  });
+
+  console.log(
+    `Socket connected: ${socket.id} (userId: ${userId ?? 'unknown'}, username: ${username ?? 'unknown'})`
+  );
+});
 
 app.use(cors(corsOptions));
 app.use(express.json());
@@ -30,7 +60,7 @@ app.use('/tasks', tasksRouter);
 app.use('/users', usersRouter);
 app.use('/dashboard', dashboardRouter);
 app.use('/auth', authRouter);
-app.use('/conversations', chatRouter);
+app.use('/messages', chatRouter);
 
 app.get('/', (req, res) => {
   res.json({ message: 'Project Management Dashboard API is running' });

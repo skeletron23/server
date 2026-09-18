@@ -2128,7 +2128,6 @@
       "assignedAt": "2026-09-01T00:00:00.000Z"
     }
   ],
-  "conversations": [],
   "messages": [],
   "users": [
     {
@@ -2244,6 +2243,18 @@
       "name": "Your Name",
       "email": "you@example.com",
       "password": "$2b$10$3Bv.iID178qbH1BNOVJhgOAMTZVQFvPWng2lciY6Fo7Uy8qghLG/O"
+    },
+    {
+      "id": 23,
+      "name": "test user1",
+      "email": "tuser1@example.com",
+      "password": "$2b$10$8pfceKWV7Vt8u1tHO150iuQWorUE2i.IEHWFUzkPZqp8te4fAkUsO"
+    },
+    {
+      "id": 24,
+      "name": "test user2",
+      "email": "tuser2@example.com",
+      "password": "$2b$10$pqlDTEWcDXnn.WOcrJIQP.m4e4uqYvF1XIgCsoSWzk9s.d0Tj4JH2"
     }
   ]
 }

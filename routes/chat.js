@@ -1,28 +1,25 @@
 const express = require('express');
 const router = express.Router();
 const db = require('../utils/db');
+const { verifyToken } = require('../middleware/authMiddleware');
 
-// GET /conversations?userId=1
-router.get('/', (req, res) => {
-  const { userId } = req.query;
+// GET /messages/:otherUserId
+router.get('/:otherUserId', verifyToken, (req, res) => {
+  const { id: userId } = req.user;
+  const { otherUserId } = req.params;
 
-  if (userId === undefined || userId === '') {
-    return res.status(400).json({ message: 'userId is required' });
+  if (otherUserId === '') {
+    return res.status(400).json({ message: 'otherUserId is required' });
   }
 
-  res.json(db.getConversations(userId));
+  res.json(db.getMessagesBetweenUsers(userId, otherUserId));
 });
 
-// GET /conversations/:id/messages
-router.get('/:id/messages', (req, res) => {
-  res.json(db.getMessages(req.params.id));
-});
-
-// POST /conversations
-router.post('/', (req, res) => {
+// POST /messages
+router.post('/', verifyToken, (req, res) => {
   try {
-    const conversation = db.createConversation(req.body.participants);
-    res.status(201).json(conversation);
+    const message = db.addMessage(req.user.id, req.body.recipientId, req.body.text);
+    res.status(201).json(message);
   } catch (error) {
     res.status(400).json({ message: error.message });
   }
